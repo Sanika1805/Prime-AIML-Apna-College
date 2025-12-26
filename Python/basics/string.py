@@ -1,3 +1,8 @@
+#  Topic : Basics in python
+# Author : Sanika Jagtap
+# Description : Basic operations and examples
+
+
 word = "python"
 # print(word[2])
 

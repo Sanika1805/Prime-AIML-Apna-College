@@ -1,3 +1,9 @@
+#  Topic : Set in python
+# Author : Sanika Jagtap
+# Description : Basic Set operations and examples
+
+
+
 #collection of unique elemnets
 #immutable
 

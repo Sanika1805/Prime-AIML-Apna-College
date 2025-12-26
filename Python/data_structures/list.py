@@ -1,3 +1,8 @@
+#  Topic : List in python
+# Author : Sanika Jagtap
+# Description : Basic list operations and examples
+
+
 marks= [99,89,100,65,92]
 # marks[2]=70
 # print(marks)
