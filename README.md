@@ -1,0 +1,1 @@
+A complete collection of my notes, code implementations, assignments, and projects from the Prime AI/ML Batch by Shraddha Khapra Ma’am. This repository documents my journey of mastering Python, Machine Learning, Deep Learning, and real-world AI projects step by step.
