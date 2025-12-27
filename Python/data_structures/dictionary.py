@@ -1,42 +1,42 @@
-#  Topic : Dictionary in python
-# Author : Sanika Jagtap
-# Description : Basic Dictionary operations and examples
+# #  Topic : Dictionary in python
+# # Author : Sanika Jagtap
+# # Description : Basic Dictionary operations and examples
 
 
+# # key.value pairs
+# # unique
+# # unordred
+# # immutable
 
+# info= {
+#     "name":"sanika",
+#     "cgpa":"9.54",
+#     "subjects":["maths","science"],
+#     3.14:"pi"
+# }
+# print(info)
 
-# key.value pairs
-# unique
-# unordred
-# immutable
+# # to acces value
+# print(info[3.14])
 
-info= {
-    "name":"sanika",
-    "cgpa":"9.54",
-    "subjects":["maths","science"],
-    3.14:"pi"
-}
-print(info)
+# # methods
+# #d.keys() returns all keys
+# print(info.keys())
 
-# to acces value
-print(info[3.14])
+# #d.val() returns all values
+# dict_vals = list(info.values())
+# print(type (dict_vals)) #returns in form of list
 
-# methods
-#d.keys() returns all keys
-print(info.keys())
+# #dic items  returns key value pairs
+# print(info.items())
 
-#d.val() returns all values
-dict_vals = list(info.values())
-print(type (dict_vals)) #returns in form of list
+# #d.get(val)  returns val acc to key
+# print(info.get("cgpa")) #we use get to give none value in case value doen't exit
 
-#dic items  returns key value pairs
-print(info.items())
+# #d.update(new_item) add new oitrem to dict
+# info.update({
+#     "city":"pune"
+# })
+# print(info)
 
-#d.get(val)  returns val acc to key
-print(info.get("cgpa")) #we use get to give none value in case value doen't exit
-
-#d.update(new_item) add new oitrem to dict
-info.update({
-    "city":"pune"
-})
-print(info)
+# print(info.get("surname","Information in not available")) #for the not available value

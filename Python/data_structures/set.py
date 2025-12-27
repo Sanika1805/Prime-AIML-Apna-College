@@ -19,9 +19,9 @@
 # empty_set={} #output type will dict
 # print(type(empty_set))
 
-#methods
-set1={1,2,3}
-set2={3,4,5,5,6}
+# methods
+# set1={1,2,3}
+# set2={3,4,5,5,6}
 
 # s.add(6)
 
@@ -31,8 +31,8 @@ set2={3,4,5,5,6}
 
 # s.pop()
 
-#union
-print(set1.union(set2))
+# #union
+# print(set1.union(set2))
 
-#intersection
-print(set1.intersection(set2))
+# #intersection
+# print(set1.intersection(set2))

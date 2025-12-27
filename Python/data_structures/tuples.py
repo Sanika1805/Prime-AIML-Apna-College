@@ -5,13 +5,13 @@
 
 
 tup=(1,2,2,3,4,5)
-# print(tup)
+print(tup)
 # print(len(tup))
 
 # tup=(1)#expression
 
 # for val in tup:
-#     print(val)
+    # print(val)
 
 # sum=0
 # for val in tup:
