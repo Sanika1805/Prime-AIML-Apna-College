@@ -5,9 +5,9 @@ This folder contains my Python learning as part of the Prime AIML course.
 ## Folder Structure
 
 - basics  
-  Covers Python fundamentals such as variables, data types, and strings.
+  Covers Python fundamentals 
 
-- control_flow  
+- conditional statements 
   Programs related to if-else conditions and loops.
 
 - data_structures  
