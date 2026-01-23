@@ -2,7 +2,7 @@
 # def functionname(): //function defination
 # here call the function
 
-# def hello(): #fnx defination
+# def hello(): #fnx definastion
 #     print("hello from python!!")
 
 # hello() #fnx call
@@ -23,6 +23,8 @@
 # def avg(a, b, c):
 #     avg = (a+ b+ c)/3
 #     return avg
+#     a = (a+ b+ c)/3
+#     return a
 # print("avg is : ", avg(2,3,4))
 
 # def calc_avg(a, b, c):
